@@ -47,12 +47,15 @@
 
 <p align="center">
   <strong style="font-family: monospace;">- 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 -</strong><br/><br/>
-  <strong style="font-family: monospace; font-size: 16px;">
-    🇵​​🇴​​🇷​​🇹​​🇺​​🇬​​🇺​​🇪​​🇸​​🇪​ – 🇳​​🇦​​🇹​​🇮​​🇻​​🇪​<br/>
-    🇪​​🇳​​🇬​​🇱​​🇮​​🇸​​🇭​ – 🇫​​🇱​​🇺​​🇪​​🇳​​🇹​<br/>
-    🇸​​🇵​​🇦​​🇳​​🇮​​🇸​​🇭​ – 🇧​​🇦​​🇸​​🇮​​🇨​
+  <strong style="font-family: serif;">
+    𝑝𝑜𝑟𝑡𝑢𝑔𝑢𝑒𝑠𝑒 – 𝑛𝑎𝑡𝑖𝑣𝑒
+    <br/>
+    𝑒𝑛𝑔𝑙𝑖𝑠ℎ – 𝑓𝑙𝑢𝑒𝑛𝑡
+    <br/>
+    𝑠𝑝𝑎𝑛𝑖𝑠ℎ – 𝑏𝑎𝑠𝑖𝑐
   </strong>
 </p>
+
 
 <br/>
 
