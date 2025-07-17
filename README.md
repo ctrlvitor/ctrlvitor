@@ -1,10 +1,12 @@
+<h1 align="center">ᴡᴇʟᴄᴏᴍᴇ</h1>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" alt="banner" />
+  <img src="https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif" alt="banner" width="50%" />
 </p>
 
 <p align="center">
-  <em>Crafting engaging web experiences.</em><br/>
-  <em>-</em> <strong>Frontend Developer</strong> <em>-</em>
+  <em>𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚎𝚗𝚐𝚊𝚐𝚒𝚗𝚐 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</em><br/>
+  <em>~</em> <strong>𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</strong> <em>~</em>
 </p>
 
 <br/>
@@ -37,20 +39,28 @@
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlvitor&layout=compact&theme=tokyonight&border_radius=10&hide_title=true" />
 </div>
 
----
-
-<div align="center">
-  <div style="background-color: rgba(20, 20, 30, 0.6); padding: 12px 24px; border-radius: 8px; display: inline-block; font-family: monospace;">
-    <strong>Languages</strong><br/><br/>
-    <strong>Portuguese</strong> - <strong><em>Native</em></strong><br/>
-    <strong>English</strong> - <strong><em>Fluent</em></strong><br/>
-    <strong>Spanish</strong> - <strong><em>Basic</em></strong>
-  </div>
-</div>
+<br/>
 
 ---
+
+<br/>
+
+<p align="center">
+  <strong style="font-family: monospace;">- 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 -</strong><br/><br/>
+  <strong>
+    🇵​​🇴​​🇷​​🇹​​🇺​​🇬​​🇺​​🇪​​🇸​​🇪​ – 🇳​​🇦​​🇹​​🇮​​🇻​​🇪​
+    <br/>
+    🇪​​🇳​​🇬​​🇱​​🇮​​🇸​​🇭​ – 🇫​​🇱​​🇺​​🇪​​🇳​​🇹​
+    <br/>
+    🇸​​🇵​​🇦​​🇳​​🇮​​🇸​​🇭​ – 🇧​​🇦​​🇸​​🇮​​🇨​
+  </strong>
+</p>
+
+<br/>
+
+
 
 <p align="center">
   <strong>“Not everything needs to be explained. Some things are just built.”</strong><br/>
-  <em><sub>— probably not from a fortune cookie</sub></em>
+  <em><sub>— ᴘʀᴏʙᴀʙʟʏ ɴᴏᴛ ꜰʀᴏᴍ ᴀ ꜰᴏʀᴛᴜɴᴇ ᴄᴏᴏᴋɪᴇ</sub></em>
 </p>
