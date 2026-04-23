@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <em>𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚎𝚗𝚐𝚊𝚐𝚒𝚗𝚐 𝚠𝚎𝚋 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</em><br/>
-  <em>~</em> <strong>𝓕𝓻𝓸𝓷𝓽𝓮𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</strong> <em>~</em>
+  <em>𝙲𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚐𝚘𝚘𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.</em><br/>
+  <em>~</em> <strong>𝓕𝓾𝓵𝓵𝓼𝓽𝓪𝓬𝓴 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻</strong> <em>~</em>
 </p>
 
 <br/>
@@ -27,6 +27,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   &nbsp;
   <img src="https://www.svgrepo.com/show/374118/tailwind.svg" height="40" alt="tailwind" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </p>
@@ -56,10 +62,7 @@
   </strong>
 </p>
 
-
 <br/>
-
-
 
 <p align="center">
   <strong>“Not everything needs to be explained. Some things are just built.”</strong><br/>
