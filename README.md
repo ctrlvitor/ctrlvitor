@@ -48,14 +48,6 @@
 
 <br/>
 
-<div align="center">
-  <img height="115px" src="https://github-readme-stats.vercel.app/api?username=ctrlvitor&show_icons=true&hide=issues&theme=tokyonight&border_radius=10&hide_title=true" />
-  &nbsp;
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctrlvitor&layout=compact&theme=tokyonight&border_radius=10&hide_title=true" />
-</div>
-
-<br/>
-
 ---
 
 <br/>
